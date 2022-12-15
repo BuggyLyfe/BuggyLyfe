@@ -1,4 +1,4 @@
-- 👋 Hi, I’m MD. Eklasur Rahman Mohin
-- 👀 I’m interested in Competitive Programming
-- 🌱 I’m currently learning Full Stack Web Development
-- 📫 How to reach me -> mohin18.ice@gmail.com
+-  👋 Hi, I’m MD. Eklasur Rahman Mohin
+-  👀 I’m interested in Competitive Programming
+-  🌱 I’m currently learning Full Stack Web Development
+-  📫 How to reach me -> mohin18.ice@gmail.com
